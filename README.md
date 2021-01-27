@@ -6,8 +6,8 @@ Panduan Installasi:
 
 Bahasa Pemrograman:
 1. Webix Framework (GNU GENERAL PUBLIC LICENSE:  https://www.gnu.org/licenses/gpl-3.0.en.html)
-2. PHP (api)
-3. Guzzle (api)
+2. PHP
+3. Guzzle
 
 Tampilan Web Portal - SSD Iswahyudi
 
