@@ -5,7 +5,7 @@ Panduan Installasi:
 2. Jalankan via browser dengan alamat: http://localhost/ssd_iswahyudi_dashboard/
 
 Bahasa Pemrograman:
-1. Webix Framework
+1. Webix Framework (GPL License:  https://www.gnu.org/licenses/gpl-3.0.en.html => https://github.com/iswahyud/ssd_iswahyudi_dashbord/blob/main/license.txt)
 2. PHP (api)
 3. Guzzle (api)
 
