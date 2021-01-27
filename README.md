@@ -9,6 +9,8 @@ Bahasa Pemrograman:
 2. PHP
 3. Guzzle
 
+Api Polygon Kelurahan: http://localhost/ssd_iswahyudi_dashboard/api/php/getpolygon.php
+
 Tampilan Web Portal - SSD Iswahyudi
 
 <img src="https://raw.githubusercontent.com/iswahyud/ssd_iswahyudi_dashbord/main/screenshot_web_portal_maps.png">
