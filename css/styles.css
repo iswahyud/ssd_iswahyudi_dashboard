@@ -1,0 +1,210 @@
+/* html{
+	zoom: 85%;
+} */
+
+.container {
+	width: 100%;
+}
+
+.mywin .webix_win_head>.webix_view>.webix_template {
+	font-size: 12pt;
+}
+
+.rowtablehighlight {
+	background: grey !important;
+	color: white !important;
+}
+
+.rowtablehighlightnew {
+	background: #fdfdd1;
+	color: black !important;
+}
+
+.rowtablehighlightmax {
+	background: #fa8b8b !important;
+}
+
+.app-header {
+	/* background-image: url("../images/header_rafi2019@300x-8.png") !important; */
+	/* background-image: url("../images/header_alarmdbr.png") !important; */
+	background-image: url("../images/header.png") !important;
+	background-size: 1356px 60px !important;
+	/* background-size:     cover !important;
+    background-repeat:   no-repeat !important;
+	background-position: center center !important; */
+	/* width: 100% !important; */
+	/* width: 1200px; */
+	/* z-index: 0; */
+	/* background: url("../assets/imgs/7568.jpg") !important; */
+}
+
+.uploaded-class {
+	display: inline-block;
+	overflow: hidden;
+	max-height: 30px;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+	/* border-right: 1px solid red; */
+}
+
+.uploadfiles>.webix_list_item:after {
+	border-right: 5px solid red;
+}
+
+.my_style .webix_column {
+	/* font-style:italic; */
+	/* background:#ddFFdd; */
+	font-size: 10px;
+}
+
+.center_text {
+	text-align: center;
+}
+
+.login_footer {
+	text-align: center;
+	background-color: lightslategrey;
+	color: white;
+	font-size: 14px;
+	font-weight: bolder;
+}
+
+.app-title {
+	font-weight: bold;
+	font-style: italic;
+	font-size: 3vh !important;
+	text-shadow: 4px 3px 5px #222;
+}
+
+.app-copyright1 {
+	font-size: 2vh !important;
+	font-style: italic;
+	text-align: right;
+	text-shadow: 2px 2px 2px #222;
+}
+
+.app-copyright2 {
+	font-size: 1.5vh !important;
+	font-style: italic;
+	text-align: right;
+	text-shadow: 2px 2px 2px #222;
+}
+
+.app_button button {
+	padding: 0;
+	text-align: center;
+}
+
+/* .sitedetail-site .webix_template{
+	text-align: center;
+} */
+
+.detail-css .webix_template {
+	font-size: 12px;
+	vertical-align: middle;
+}
+
+.detail-css .subtitle {
+	font-size: 8px;
+}
+
+.applogo a {
+	height: 100%;
+}
+
+.applogo img {
+	vertical-align: middle;
+	width: 100%;
+	-webkit-filter: drop-shadow(0px 5px 5px #222);
+	filter: drop-shadow(0px 5px 5px #222);
+	/* width: 5vw !important; */
+	/* height: 5vh !important; */
+}
+
+.details_button {
+	font-size: 10px !important;
+}
+
+.webix_axis_item_x {
+	-ms-transform: rotate(30deg) !important;
+	/* IE 9 */
+	-webkit-transform: rotate(30) !important;
+	/* Chrome, Safari, Opera */
+	transform: rotate(30) !important;
+	/* margin-top: 50px;  */
+	/* padding-right:20px; */
+	/* padding-top:30px; */
+}
+
+/* .webix_all_tabs{
+	height: 30px !important;
+} */
+
+.webix_item_tab {
+	white-space: nowrap;
+}
+
+.webix_axis_item_x {
+	-ms-transform: rotate(15deg);
+	/* IE 9 */
+	-webkit-transform: rotate(15deg);
+	/* Chrome, Safari, Opera */
+	transform: rotate(15deg);
+	margin-top: 15px;
+	/* padding-right:20px; */
+	/* padding-top:30px; */
+}
+
+.webix_layout_toolbar.webix_toolbar .webix_el_button, .webix_layout_toolbar.webix_toolbar .webix_el_label, .webix_layout_toolbar.webix_toolbar .webix_inp_label, .webix_el_label .webix_el_box {
+	/*color: #eee !important;*/
+}
+
+.map-legend {
+	border: none;
+	background-color: transparent;
+	color: ghostwhite;
+	font-weight: bold;
+	font-size: 12px;
+}
+
+.map-legend .webix_template {
+	padding: 4px 0;
+}
+
+.map-legend img {
+	vertical-align: middle;
+	height: 24px;
+}
+
+.map-legend .hidden {
+	color: #6f6f6f;
+}
+
+.team_photo {
+	float: left;
+	width: 80px;
+	height: 100px;
+	background-position: center center;
+	/* background-image: url("http://i.stack.imgur.com/2OrtT.jpg"); */
+	background-size: cover;
+	background-repeat: no-repeat;
+	/* background-position: 50% 50%; */
+	background-size: cover;
+	border-radius: 60px;
+	margin: 5px 20px 5px 10px;
+}
+
+.tblstyle .webix_hcell {
+	font-size: 26;
+	font-weight: bold;
+}
+
+.tbstyle .webix_column {
+	font-size: 24;
+	font-weight: bold;
+}
+
+.tbstyle .webix_column>div {
+	font-size: 24;
+	font-weight: bold;
+}
