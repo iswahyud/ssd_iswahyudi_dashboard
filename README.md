@@ -1,4 +1,5 @@
 # ssd_iswahyudi_dashboard
+Aplikasi Web Portal untuk mencari data fasilitas kesehatan yang ada di sekitar Jakarta, aplikasi ini dibuat sebagai syarat Technical Hands-On Test pada kesempatan Recruitment Jakarta Smart City 2021.
 
 Panduan Installasi:
 1. Extract file Zip kedalam folder xampp/htdocs/
